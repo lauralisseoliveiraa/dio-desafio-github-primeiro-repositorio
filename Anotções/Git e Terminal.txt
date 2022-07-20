@@ -1,0 +1,38 @@
+Git download: https://git-scm.com/
+
+- Git é um CLI (command-line interface);
+
+*Comandos básicos para um bom desempenho no terminal:
+
+- mudar de pastas:
+cd
+cd /
+cd ..
+
+- listar pastas/diretórios contidos na pasta:
+windows: dir
+linux: ls
+obs: Flags são complementos adicionados a esses comandos que modificam suas formas
+
+- criar pastas/arquivos:
+mkdir
+
+- limpar o terminal:
+windows: cls
+linux: clear ou crtl + L
+
+- autocomplete:
+TAB
+
+obs 1: comando "echo" printa um texto no terminal.
+obs 2: ">" é um redirecionador de fluxo
+
+- deletar arquivos:
+windows: del
+
+- deletar repositórios:
+rmdir
+
+- adicionar todos os arquivos:
+git add .
+git add -A
